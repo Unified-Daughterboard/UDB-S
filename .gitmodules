@@ -1,0 +1,9 @@
+[submodule "libraries/acheron_Connectors.pretty"]
+	path = libraries/acheron_Connectors.pretty
+	url = git@github.com:AcheronProject/acheron_Connectors.pretty.git
+[submodule "libraries/acheron_Symbols"]
+	path = libraries/acheron_Symbols
+	url = git@github.com:AcheronProject/acheron_Symbols.git
+[submodule "libraries/acheron_Components.pretty"]
+	path = libraries/acheron_Components.pretty
+	url = git@github.com:AcheronProject/acheron_Components.pretty.git

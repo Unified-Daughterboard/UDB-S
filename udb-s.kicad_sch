@@ -1101,7 +1101,7 @@
   )
 
   (no_connect (at 120.65 83.185) (uuid ad37f44d-0c7a-4b45-9c69-95f01a3b41c4))
-  (no_connect (at 120.65 80.645) (uuid ad37f44d-0c7a-4b45-9c69-95f01a3b41c4))
+  (no_connect (at 120.65 80.645) (uuid ad37f44d-0c7a-4b45-9c69-95f01a3b41c5))
 
   (wire (pts (xy 179.07 111.125) (xy 179.07 112.395))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -1384,7 +1384,7 @@
     (uuid 069e662e-7dc2-468b-8ae7-9629b50e1985)
     (property "Reference" "F1" (id 0) (at 241.3 38.1 90))
     (property "Value" "SMD0805-050-16V" (id 1) (at 241.3 40.64 90))
-    (property "Footprint" "Fuse:Fuse_0805_2012Metric" (id 2) (at 241.3 46.228 90)
+    (property "Footprint" "Fuse:Fuse_1206_3216Metric" (id 2) (at 241.3 46.228 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 241.3 44.45 0)
@@ -1901,7 +1901,7 @@
       (reference "D1") (unit 1) (value "ESD5Z5V0") (footprint "Diode_SMD:D_SOD-523")
     )
     (path "/069e662e-7dc2-468b-8ae7-9629b50e1985"
-      (reference "F1") (unit 1) (value "SMD0805-050-16V") (footprint "Fuse:Fuse_0805_2012Metric")
+      (reference "F1") (unit 1) (value "SMD0805-050-16V") (footprint "Fuse:Fuse_1206_3216Metric")
     )
     (path "/439e5845-5e71-484a-9783-5c8904350de7"
       (reference "FB1") (unit 1) (value "GZ2012D601TF") (footprint "Inductor_SMD:L_0805_2012Metric")

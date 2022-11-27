@@ -7,3 +7,6 @@
 [submodule "libraries/acheron_Components.pretty"]
 	path = libraries/acheron_Components.pretty
 	url = git@github.com:AcheronProject/acheron_Components.pretty.git
+[submodule "libraries/acheron_3D"]
+	path = libraries/acheron_3D
+	url = https://github.com/AcheronProject/acheron_3D

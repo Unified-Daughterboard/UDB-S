@@ -1,4 +1,4 @@
-20721903723427870
+20725242858711876
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87003,9 +87003,23 @@ USB_MiniB_XM7D-0512
 18
 6
 locallib
+HRO-TYPE-C-31-M-12-Assembly
+
+
+0
+16
+13
+locallib
 PicoEZMate-Reinforced-Lite
 Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf), generated with kicad-footprint-generator
 connector Molex Pico-EZmate side entry
 0
 22
 4
+locallib
+UnifiedLogo
+
+
+0
+0
+0

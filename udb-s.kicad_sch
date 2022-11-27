@@ -1672,7 +1672,7 @@
     (property "Value" "78171-0004" (id 1) (at 177.165 49.2505 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "acheron_Connectors:MOLEX_781710004_MountingReliefs" (id 2) (at 173.99 46.355 0)
+    (property "Footprint" "locallib:PicoEZMate-Reinforced-Lite" (id 2) (at 173.99 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 173.99 46.355 0)
@@ -1925,7 +1925,7 @@
       (reference "J1") (unit 1) (value "TYPE-C-31-M-12") (footprint "acheron_Connectors:USB_C_Receptacle_Hroparts_TYPE-C-31-M-12")
     )
     (path "/9bedc7ad-26a6-4dea-8309-3bb1cd87c5e7"
-      (reference "J2") (unit 1) (value "78171-0004") (footprint "acheron_Connectors:MOLEX_781710004_MountingReliefs")
+      (reference "J2") (unit 1) (value "78171-0004") (footprint "locallib:PicoEZMate-Reinforced-Lite")
     )
     (path "/d199325f-3460-4780-9af2-504e32113c8b"
       (reference "R1") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0402_1005Metric")

@@ -1558,7 +1558,7 @@
     (uuid 53d471a9-3f62-44eb-bfc3-54c2452d89c7)
     (property "Reference" "J1" (id 0) (at 105.41 45.085 0))
     (property "Value" "TYPE-C-31-M-12" (id 1) (at 105.41 47.625 0))
-    (property "Footprint" "acheron_Connectors:USB_C_Receptacle_Hroparts_TYPE-C-31-M-12" (id 2) (at 109.22 67.945 0)
+    (property "Footprint" "locallib:HRO-TYPE-C-31-M-12-Assembly" (id 2) (at 109.22 67.945 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 109.22 67.945 0)
@@ -1922,7 +1922,7 @@
       (reference "H2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopOnly")
     )
     (path "/53d471a9-3f62-44eb-bfc3-54c2452d89c7"
-      (reference "J1") (unit 1) (value "TYPE-C-31-M-12") (footprint "acheron_Connectors:USB_C_Receptacle_Hroparts_TYPE-C-31-M-12")
+      (reference "J1") (unit 1) (value "TYPE-C-31-M-12") (footprint "locallib:HRO-TYPE-C-31-M-12-Assembly")
     )
     (path "/9bedc7ad-26a6-4dea-8309-3bb1cd87c5e7"
       (reference "J2") (unit 1) (value "78171-0004") (footprint "locallib:PicoEZMate-Reinforced-Lite")

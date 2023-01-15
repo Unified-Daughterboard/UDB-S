@@ -428,7 +428,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "udb-s.step",
+      "step": "resources/uDB-S1-3D-model.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""

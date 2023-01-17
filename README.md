@@ -6,7 +6,7 @@
 The Unified Daughterboard Project is an open standard to unify the USB daughterboards used in custom mechanical keyboard projects.  
 The Unified Daughterboard allows designers to easily implementing electrical protection via a tested proven PCB, and allows users to maintain and repair their keyboards in the future.  
   
-For an overview of the Unified Daughterboard project, see the [main repository](https://github.com/Unified-Daughterboard/Unified-Daughterboard).
+For more details on the Unified Daughterboard project, see the [main website](https://unified-daughterboard.github.io/).
 
 
 ## S1 version
@@ -26,8 +26,7 @@ The S1 variant was developed as an entirely new form factor from the older C3 ve
 
 
 ## Using S1 in your design
-Please [visit the wiki](https://github.com/Unified-Daughterboard/UDB-S1/wiki) for detailed implementation references and notices.  
-Note: The wiki is currently under construction. The wiki will contain all implementation information in the future.  
+Please [visit the docs](https://unified-daughterboard.github.io/) for detailed implementation references and notices.  
 
 
 ## Previews

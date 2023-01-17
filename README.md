@@ -1,6 +1,6 @@
-# Unified Daughterboard S1
+# Unified Daughterboard S Series
 
-![banner](https://github.com/Unified-Daughterboard/UDB-S1/raw/main/assets/S1-Banner-Img.jpg)
+![banner](https://github.com/Unified-Daughterboard/UDB-S/raw/main/assets/S1-Banner-Img.jpg)
 
 ## Introduction
 The Unified Daughterboard Project is an open standard to unify the USB daughterboards used in custom mechanical keyboard projects.  
@@ -9,7 +9,7 @@ The Unified Daughterboard allows designers to easily implementing electrical pro
 For more details on the Unified Daughterboard project, see the [main website](https://unified-daughterboard.github.io/).
 
 
-## S1 version
+## S Series
 
 The S1 variant was developed as an entirely new form factor from the older C3 version based on real-world production usage and designer input.
 
@@ -25,13 +25,13 @@ The S1 variant was developed as an entirely new form factor from the older C3 ve
 - 1:1 connector pinout to retain compatibility with existing PCBs
 
 
-## Using S1 in your design
+## Using the S series uDB in your design
 Please [visit the docs](https://unified-daughterboard.github.io/) for detailed implementation references and notices.  
 
 
 ## Previews
-![Render](https://github.com/Unified-Daughterboard/UDB-S1/raw/main/assets/front.jpg)
-![Render](https://github.com/Unified-Daughterboard/UDB-S1/raw/main/assets/rear.jpg)
+![Render](https://github.com/Unified-Daughterboard/UDB-S/raw/main/assets/front.jpg)
+![Render](https://github.com/Unified-Daughterboard/UDB-S/raw/main/assets/rear.jpg)
 
 
 ## Credits
